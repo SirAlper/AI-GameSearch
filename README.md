@@ -5,7 +5,7 @@
 ![Model](https://img.shields.io/badge/Gemini-3_Flash-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![API](https://img.shields.io/badge/Steam_Store-API-black?style=for-the-badge)
 
-**Steam Game Hunter** is an intelligent, autonomous AI agent designed to discover "hidden gem" games and track real-time prices on Steam.
+**AI-GameSearch** is an intelligent, autonomous AI agent designed to discover "hidden gem" games and track real-time prices on Steam.
 
 Built on the **LangGraph** architecture using **ReAct (Reasoning + Acting)** logic, this agent doesn't just chat; it actively searches the web for game recommendations, filters them based on user criteria, and queries the Steam Store API for live pricing and discounts.
 
