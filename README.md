@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangGraph-ReAct-orange?style=for-the-badge)
-![Model](https://img.shields.io/badge/Llama_3.3-70B-purple?style=for-the-badge)
+![Model](https://img.shields.io/badge/Gemini-3_Flash-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![API](https://img.shields.io/badge/Steam_Store-API-black?style=for-the-badge)
 
 **Steam Game Hunter** is an intelligent, autonomous AI agent designed to discover "hidden gem" games and track real-time prices on Steam.
@@ -25,7 +25,7 @@ This project leverages a modern AI engineering stack:
 | Component | Technology | Description |
 | :--- | :--- | :--- |
 | **Orchestration** | **LangGraph** | Manages the cyclic state and agent workflow. |
-| **LLM** | **Llama 3.3 (via Groq)** | High-performance inference with large context window. |
+| **LLM** | **Google Gemini 1.5** | High-performance inference with massive context window. |
 | **Search Tool** | **Tavily API** | AI-optimized search engine for gathering game lists. |
 | **Data Source** | **Steam Store API** | Custom Python wrapper for fetching game data. |
 | **Backend** | **FastAPI / Uvicorn** | Serves the agent as a RESTful API. |
