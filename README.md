@@ -25,7 +25,7 @@ This project leverages a modern AI engineering stack:
 | Component | Technology | Description |
 | :--- | :--- | :--- |
 | **Orchestration** | **LangGraph** | Manages the cyclic state and agent workflow. |
-| **LLM** | **Google Gemini 1.5** | High-performance inference with massive context window. |
+| **LLM** | **Google Gemini 3** | High-performance inference with massive context window. |
 | **Search Tool** | **Tavily API** | AI-optimized search engine for gathering game lists. |
 | **Data Source** | **Steam Store API** | Custom Python wrapper for fetching game data. |
 | **Backend** | **FastAPI / Uvicorn** | Serves the agent as a RESTful API. |
